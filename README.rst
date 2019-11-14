@@ -1,13 +1,9 @@
-reddit_cakeday_bot
+reddit_cakeday_bot(WIP!!!!)
 ==================
 
 .. image:: https://img.shields.io/pypi/v/reddit_cakeday_bot.svg
     :target: https://pypi.python.org/pypi/reddit_cakeday_bot
     :alt: Latest PyPI version
-
-.. image:: False.png
-   :target: False
-   :alt: Latest Travis CI build status
 
 A bot that counts down the days until your reddit cake day
 
