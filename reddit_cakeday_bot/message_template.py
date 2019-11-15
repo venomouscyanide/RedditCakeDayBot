@@ -7,4 +7,4 @@ The wait is worth it!"""
 \nYaay It is your cakeday 🥳🥳
 \nDon't party too hard 🎁"""
 
-    DEVELOPER_INFORMATION = """\n\n Fork me! Star me! https://github.com/venomouscyanide/RedditCakeDayBoy"""
+    DEVELOPER_INFORMATION = """\n\n Fork me! Star me! https://github.com/venomouscyanide/RedditCakeDayBot"""
